@@ -10,6 +10,9 @@ This repository now contains structured solutions with a short problem summary, 
 - [0011 - Container With Most Water](0011-container-with-most-water/README.md)
 - [0019 - Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md)
 - [0020 - Valid Parentheses](0020-valid-parentheses/README.md)
+- [0022 - Generate Parentheses](0022-generate-parentheses/README.md)
+- [0028 - Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/README.md)
+- [0035 - Search Insert Position](0035-search-insert-position/README.md)
 
 ## Template
 
