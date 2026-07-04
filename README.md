@@ -1,8 +1,16 @@
-# LeetCode-Problems
+# LeetCode Problems
 
-This repository now contains structured solutions with a short problem summary, explanation, and Python, Java, and C++ implementations.
+This repository collects LeetCode solutions in a consistent, easy-to-scan format.
 
-## Problems
+Each problem lives in its own folder and includes a short explanation plus implementations in Python, Java, and C++. The goal is to keep the solutions readable first, while still showing the core idea behind each approach.
+
+## What You’ll Find Here
+
+- Problem folders named with the LeetCode number and a short title, such as `0001-two-sum/`.
+- A `README.md` in each problem folder with the problem summary, approach, correctness idea, and complexity.
+- Matching solution files in `solution.py`, `Solution.java`, and `solution.cpp`.
+
+## Problem Index
 
 - [0001 - Two Sum](0001-two-sum/README.md)
 - [0005 - Longest Palindromic Substring](0005-longest-palindromic-substring/README.md)
@@ -16,6 +24,6 @@ This repository now contains structured solutions with a short problem summary, 
 - [0042 - Trapping Rain Water](0042-trapping-rain-water/README.md)
 - [0076 - Minimum Window Substring](0076-minimum-window-substring/README.md)
 
-## Template
+## Writing Format
 
-Use [PROBLEM_TEMPLATE.md](PROBLEM_TEMPLATE.md) as the standard format for future problem writeups.
+If you want to add a new problem, use [PROBLEM_TEMPLATE.md](PROBLEM_TEMPLATE.md) as the reference for the writeup structure.
