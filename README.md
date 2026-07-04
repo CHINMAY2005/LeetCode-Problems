@@ -13,6 +13,8 @@ This repository now contains structured solutions with a short problem summary, 
 - [0022 - Generate Parentheses](0022-generate-parentheses/README.md)
 - [0028 - Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/README.md)
 - [0035 - Search Insert Position](0035-search-insert-position/README.md)
+- [0042 - Trapping Rain Water](0042-trapping-rain-water/README.md)
+- [0076 - Minimum Window Substring](0076-minimum-window-substring/README.md)
 
 ## Template
 
