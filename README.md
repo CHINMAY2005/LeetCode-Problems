@@ -23,6 +23,9 @@ Each problem lives in its own folder and includes a short explanation plus imple
 - [0035 - Search Insert Position](0035-search-insert-position/README.md)
 - [0042 - Trapping Rain Water](0042-trapping-rain-water/README.md)
 - [0076 - Minimum Window Substring](0076-minimum-window-substring/README.md)
+- [0079 - Word Search](0079-word-search/README.md)
+- [0088 - Merge Sorted Array](0088-merge-sorted-array/README.md)
+- [0094 - Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal/README.md)
 
 ## Writing Format
 
