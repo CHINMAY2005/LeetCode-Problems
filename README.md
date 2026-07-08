@@ -26,6 +26,9 @@ Each problem lives in its own folder and includes a short explanation plus imple
 - [0079 - Word Search](0079-word-search/README.md)
 - [0088 - Merge Sorted Array](0088-merge-sorted-array/README.md)
 - [0094 - Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal/README.md)
+- [0098 - Validate Binary Search Tree](0098-validate-binary-search-tree/README.md)
+- [0099 - Recover Binary Search Tree](0099-recover-binary-search-tree/README.md)
+- [0100 - Same Tree](0100-same-tree/README.md)
 
 ## Writing Format
 
