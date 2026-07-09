@@ -29,6 +29,7 @@ Each problem lives in its own folder and includes a short explanation plus imple
 - [0098 - Validate Binary Search Tree](0098-validate-binary-search-tree/README.md)
 - [0099 - Recover Binary Search Tree](0099-recover-binary-search-tree/README.md)
 - [0100 - Same Tree](0100-same-tree/README.md)
+- [0101 - Symmetric Tree](0101-symmetric-tree/README.md)
 
 ## Writing Format
 
