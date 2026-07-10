@@ -34,6 +34,7 @@ Each problem lives in its own folder and includes a short explanation plus imple
 - [0141 - Linked List Cycle](0141-linked-list-cycle/README.md)
 - [0144 - Binary Tree Preorder Traversal](0144-binary-tree-preorder-traversal/README.md)
 - [0145 - Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/README.md)
+- [0160 - Intersection of Two Linked Lists](0160-intersection-of-two-linked-lists/README.md)
 
 ## Writing Format
 
