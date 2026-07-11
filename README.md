@@ -36,6 +36,7 @@ Each problem lives in its own folder and includes a short explanation plus imple
 - [0145 - Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal/README.md)
 - [0160 - Intersection of Two Linked Lists](0160-intersection-of-two-linked-lists/README.md)
 - [0200 - Number of Islands](0200-number-of-islands/README.md)
+- [0202 - Happy Number](0202-happy-number/README.md)
 
 ## Writing Format
 
