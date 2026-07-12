@@ -1,14 +1,10 @@
-# LeetCode Problems
+# LeetCode Solutions
 
-This repository collects LeetCode solutions in a consistent, easy-to-scan format.
+A collection of clean, readable LeetCode solutions implemented in Python, Java, and C++.
 
-Each problem lives in its own folder and includes a short explanation plus implementations in Python, Java, and C++. The goal is to keep the solutions readable first, while still showing the core idea behind each approach.
-
-## What You’ll Find Here
-
-- Problem folders named with the LeetCode number and a short title, such as `0001-two-sum/`.
-- A `README.md` in each problem folder with the problem summary, approach, correctness idea, and complexity.
-- Matching solution files in `solution.py`, `Solution.java`, and `solution.cpp`.
+Each problem folder contains:
+- Code files for each language (`solution.py`, `Solution.java`, `solution.cpp`).
+- A `README.md` describing the core approach, key insights, and complexity analysis.
 
 ## Problem Index
 
@@ -45,10 +41,3 @@ Each problem lives in its own folder and includes a short explanation plus imple
 - [0344 - Reverse String](0344-reverse-string/README.md)
 - [0345 - Reverse Vowels of a String](0345-reverse-vowels-of-a-string/README.md)
 - [0622 - Design Circular Queue](0622-design-circular-queue/README.md)
-
-
-
-
-## Writing Format
-
-If you want to add a new problem, use [PROBLEM_TEMPLATE.md](PROBLEM_TEMPLATE.md) as the reference for the writeup structure.
