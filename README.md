@@ -39,6 +39,7 @@ Each problem lives in its own folder and includes a short explanation plus imple
 - [0202 - Happy Number](0202-happy-number/README.md)
 - [0206 - Reverse Linked List](0206-reverse-linked-list/README.md)
 - [0217 - Contains Duplicate](0217-contains-duplicate/README.md)
+- [0232 - Implement Queue using Stacks](0232-implement-queue-using-stacks/README.md)
 
 ## Writing Format
 
