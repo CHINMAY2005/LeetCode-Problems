@@ -44,6 +44,8 @@ Each problem lives in its own folder and includes a short explanation plus imple
 - [0242 - Valid Anagram](0242-valid-anagram/README.md)
 - [0344 - Reverse String](0344-reverse-string/README.md)
 - [0345 - Reverse Vowels of a String](0345-reverse-vowels-of-a-string/README.md)
+- [0622 - Design Circular Queue](0622-design-circular-queue/README.md)
+
 
 
 
