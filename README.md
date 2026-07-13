@@ -42,3 +42,4 @@ Each problem folder contains:
 - [0345 - Reverse Vowels of a String](0345-reverse-vowels-of-a-string/README.md)
 - [0622 - Design Circular Queue](0622-design-circular-queue/README.md)
 - [0695 - Max Area of Island](0695-max-area-of-island/README.md)
+- [0876 - Middle of the Linked List](0876-middle-of-the-linked-list/README.md)
