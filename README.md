@@ -44,3 +44,4 @@ Each problem folder contains:
 - [0695 - Max Area of Island](0695-max-area-of-island/README.md)
 - [0876 - Middle of the Linked List](0876-middle-of-the-linked-list/README.md)
 - [0917 - Reverse Only Letters](0917-reverse-only-letters/README.md)
+- [0994 - Rotting Oranges](0994-rotting-oranges/README.md)
