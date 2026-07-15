@@ -10,6 +10,7 @@ Each problem folder contains:
 
 - [0001 - Two Sum](0001-two-sum/README.md)
 - [0002 - Add Two Numbers](0002-add-two-numbers/README.md)
+- [0003 - Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md)
 
 - [0005 - Longest Palindromic Substring](0005-longest-palindromic-substring/README.md)
 - [0010 - Regular Expression Matching](0010-regular-expression-matching/README.md)
