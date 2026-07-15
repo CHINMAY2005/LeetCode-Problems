@@ -16,6 +16,7 @@ Each problem folder contains:
 - [0005 - Longest Palindromic Substring](0005-longest-palindromic-substring/README.md)
 - [0006 - Zigzag Conversion](0006-zigzag-conversion/README.md)
 - [0007 - Reverse Integer](0007-reverse-integer/README.md)
+- [0008 - String to Integer (atoi)](0008-string-to-integer-atoi/README.md)
 - [0010 - Regular Expression Matching](0010-regular-expression-matching/README.md)
 - [0011 - Container With Most Water](0011-container-with-most-water/README.md)
 - [0019 - Remove Nth Node From End of List](0019-remove-nth-node-from-end-of-list/README.md)
