@@ -9,6 +9,8 @@ Each problem folder contains:
 ## Problem Index
 
 - [0001 - Two Sum](0001-two-sum/README.md)
+- [0002 - Add Two Numbers](0002-add-two-numbers/README.md)
+
 - [0005 - Longest Palindromic Substring](0005-longest-palindromic-substring/README.md)
 - [0010 - Regular Expression Matching](0010-regular-expression-matching/README.md)
 - [0011 - Container With Most Water](0011-container-with-most-water/README.md)
