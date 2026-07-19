@@ -44,6 +44,7 @@ Each problem folder contains:
 - [0033 - Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md)
 - [0034 - Find First and Last Position of Element in Sorted Array](0034-find-first-and-last-position-of-element-in-sorted-array/README.md)
 - [0035 - Search Insert Position](0035-search-insert-position/README.md)
+- [0036 - Valid Sudoku](0036-valid-sudoku/README.md)
 - [0042 - Trapping Rain Water](0042-trapping-rain-water/README.md)
 - [0076 - Minimum Window Substring](0076-minimum-window-substring/README.md)
 - [0079 - Word Search](0079-word-search/README.md)
