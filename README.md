@@ -41,6 +41,7 @@ Each problem folder contains:
 - [0030 - Substring with Concatenation of All Words](0030-substring-with-concatenation-of-all-words/README.md)
 - [0031 - Next Permutation](0031-next-permutation/README.md)
 - [0032 - Longest Valid Parentheses](0032-longest-valid-parentheses/README.md)
+- [0033 - Search in Rotated Sorted Array](0033-search-in-rotated-sorted-array/README.md)
 - [0035 - Search Insert Position](0035-search-insert-position/README.md)
 - [0042 - Trapping Rain Water](0042-trapping-rain-water/README.md)
 - [0076 - Minimum Window Substring](0076-minimum-window-substring/README.md)
