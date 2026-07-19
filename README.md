@@ -38,6 +38,7 @@ Each problem folder contains:
 - [0027 - Remove Element](0027-remove-element/README.md)
 - [0028 - Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/README.md)
 - [0029 - Divide Two Integers](0029-divide-two-integers/README.md)
+- [0030 - Substring with Concatenation of All Words](0030-substring-with-concatenation-of-all-words/README.md)
 - [0035 - Search Insert Position](0035-search-insert-position/README.md)
 - [0042 - Trapping Rain Water](0042-trapping-rain-water/README.md)
 - [0076 - Minimum Window Substring](0076-minimum-window-substring/README.md)
