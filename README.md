@@ -33,6 +33,7 @@ Each problem folder contains:
 - [0022 - Generate Parentheses](0022-generate-parentheses/README.md)
 - [0023 - Merge k Sorted Lists](0023-merge-k-sorted-lists/README.md)
 - [0024 - Swap Nodes in Pairs](0024-swap-nodes-in-pairs/README.md)
+- [0025 - Reverse Nodes in k-Group](0025-reverse-nodes-in-k-group/README.md)
 - [0028 - Find the Index of the First Occurrence in a String](0028-find-the-index-of-the-first-occurrence-in-a-string/README.md)
 - [0035 - Search Insert Position](0035-search-insert-position/README.md)
 - [0042 - Trapping Rain Water](0042-trapping-rain-water/README.md)
